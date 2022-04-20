@@ -45,13 +45,12 @@ To run tests, run the following command
 
 ## Features
 
-- Light/dark mode toggle
 - Cross platform
 
 
 ## Tech Stack
 
-**Client:** React Native, Redux
+**Client:** React Native
 
 **Server:** Json-Server
 
