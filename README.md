@@ -1,5 +1,4 @@
-# state-management
-
+# Hi, I'm Khanh! 👋
 
 ## Deployment
 
@@ -36,6 +35,14 @@ or
 | `id`      | `string` | **Required**. Id of item to fetch |
 
 
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  npm run test
+```
+
 ## Features
 
 - Light/dark mode toggle
@@ -47,3 +54,7 @@ or
 **Client:** React Native, Redux
 
 **Server:** Json-Server
+
+![Logo](https://firebasestorage.googleapis.com/v0/b/fir-auth-57261.appspot.com/o/f942ebea6b24a47afd35.jpg?alt=media&token=135a1eab-9c19-4eee-974b-ad565e7306ef)
+
+
