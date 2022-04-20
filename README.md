@@ -1,3 +1,14 @@
 # state-management
-## a 
-### s
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  yarn start
+```
+or
+```bash
+  npm start
+```
